@@ -1,6 +1,6 @@
-# Project Title
+# Futbol Stats
 
-A brief description of your TypeScript application.
+This project is a straightforward Node.js TypeScript application designed to demonstrate the correct implementation of inheritance in reader classes (CSVFileReader and MatchReader) as well as the effective use of composition. Composition is utilized within the Analyzer, ReportingTarget, and Summary classes to enhance functionality and maintain clean, modular code.
 
 ## Table of Contents
 
