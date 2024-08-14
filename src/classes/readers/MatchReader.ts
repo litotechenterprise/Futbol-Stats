@@ -1,6 +1,6 @@
 import { CsvFileReader } from "./CsvFileReader";
-import { MatchData, MatchResults } from "../types";
-import { parseDate } from "../utils";
+import { MatchData, MatchResults } from "../../types";
+import { parseDate } from "../../utils";
 
 export class MatchReader extends CsvFileReader<MatchData> {
   processRow(row: string[]): MatchData {
