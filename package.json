@@ -8,7 +8,7 @@
     "test": "export NODE_ENV=test && jest --watchAll --detectOpenHandles",
     "test:ci": "export NODE_ENV=test jest",
     "start": "export NODE_ENV=production && npm run build && node build/index.js",
-    "dev": "export NODE_ENV=dev && ts-node-dev index.ts"
+    "dev": "export NODE_ENV=dev && ts-node-dev src/index.ts"
   },
   "keywords": [],
   "author": "",
