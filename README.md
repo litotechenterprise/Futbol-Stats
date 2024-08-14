@@ -8,7 +8,7 @@ This project is a straightforward Node.js TypeScript application designed to dem
 - [Usage](#usage)
 - [Development](#development)
 - [Build](#build)
-- [Features](#features)
+<!-- - [Features](#features) -->
 - [Contributing](#contributing)
 
 ## Installation
@@ -43,7 +43,7 @@ npm run build
 
 The output will be in the build/ directory.
 
-## Features
+<!-- ## Features -->
 
 ## Contributing
 
