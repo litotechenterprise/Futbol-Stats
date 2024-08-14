@@ -8,8 +8,8 @@ This project is a straightforward Node.js TypeScript application designed to dem
 - [Usage](#usage)
 - [Development](#development)
 - [Build](#build)
-<!-- - [Features](#features) -->
 - [Contributing](#contributing)
+<!-- - [Features](#features) -->
 
 ## Installation
 
